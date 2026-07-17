@@ -1,10 +1,12 @@
 # RFCs
 
-Future architectural changes should be proposed through the RFC process before they are adopted.
+Future architectural changes should be proposed through the RFC process before
+they are adopted.
 
 ## Purpose
 
-RFCs provide a structured way to propose, discuss, and record significant architectural or governance changes.
+RFCs provide a structured way to propose, discuss, and record significant
+architectural or governance changes.
 
 ## When to Write an RFC
 

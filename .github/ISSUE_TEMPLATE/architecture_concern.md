@@ -1,6 +1,8 @@
 ---
 name: Architecture concern
-about: Raise a concern about the current architecture, assumptions, boundaries, or design direction.
+about:
+  Raise a concern about the current architecture, assumptions, boundaries, or
+  design direction.
 title: "[Architecture] "
 labels: [architecture, discussion]
 assignees: []

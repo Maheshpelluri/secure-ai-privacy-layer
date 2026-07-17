@@ -1,6 +1,8 @@
 ---
 name: Bug report
-about: Report a problem in the repository site, documentation, or published artifacts.
+about:
+  Report a problem in the repository site, documentation, or published
+  artifacts.
 title: "[Bug] "
 labels: [bug, documentation]
 assignees: []

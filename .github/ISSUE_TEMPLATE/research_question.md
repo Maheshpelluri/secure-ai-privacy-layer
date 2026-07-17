@@ -1,6 +1,8 @@
 ---
 name: Research question
-about: Ask a question that may lead to research, evaluation, or architectural clarification.
+about:
+  Ask a question that may lead to research, evaluation, or architectural
+  clarification.
 title: "[Research] "
 labels: [research, question]
 assignees: []
