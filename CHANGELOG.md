@@ -1,16 +1,16 @@
 # Changelog
 
-All notable changes to this repository will be documented in this file. This
-project is currently in its architecture and research phase; version numbers
+All notable changes to this repository will be documented in this file.
+This project is in its architecture and research phase; version numbers
 track documentation and architectural maturity, not software releases.
 
 Format based on [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 
-- Nothing yet — this is the baseline publication.
+- Nothing yet - this is the baseline publication.
 
-## [0.1.0] — Initial Architecture Publication
+## [0.1.0] - Initial Architecture Publication
 
 ### Added
 
@@ -28,8 +28,8 @@ Format based on [Keep a Changelog](https://keepachangelog.com/).
 
 ### Notes
 
-- No code, prototype, or evaluated results exist at this version. This release
-	represents architectural publication only.
+- No code, prototype, or evaluated results exist at this version.
+- This release represents architectural publication only.
 
 ### Release Preparation
 
