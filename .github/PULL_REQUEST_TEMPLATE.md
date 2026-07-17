@@ -38,4 +38,3 @@ What does this pull request change, and why?
 - [ ] Any added metadata follows repository conventions
 - [ ] Validation has been run locally where applicable
 <!-- End of template -->
-

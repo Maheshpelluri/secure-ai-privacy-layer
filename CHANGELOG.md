@@ -15,14 +15,14 @@ Format based on [Keep a Changelog](https://keepachangelog.com/).
 ### Added
 
 - Primary vision article (`article/index.html`) describing the problem,
-	market gap, and the Secure AI Privacy Layer concept.
+  market gap, and the Secure AI Privacy Layer concept.
 - Core documentation set under `docs/`: architecture, problem statement,
-	market gap, design principles, system boundaries, implementation roadmap,
-	evaluation framework, future research, glossary, FAQ, and limitations.
+  market gap, design principles, system boundaries, implementation roadmap,
+  evaluation framework, future research, glossary, FAQ, and limitations.
 - Repository governance files: `CONTRIBUTING.md`, `CODE_OF_CONDUCT.md`,
-	`SECURITY.md`, `LICENSE`.
+  `SECURITY.md`, `LICENSE`.
 - `prototype/README.md` explaining the architecture-first approach and the
-	current absence of a reference implementation.
+  current absence of a reference implementation.
 - `examples/README.md` outlining future illustrative scenarios by sector.
 - GitHub issue and pull request templates under `.github/`.
 
@@ -34,5 +34,5 @@ Format based on [Keep a Changelog](https://keepachangelog.com/).
 ### Release Preparation
 
 - Prepare the GitHub release as `v0.1.0` with the title
-	`Initial Architecture Publication`.
+  `Initial Architecture Publication`.
 - Use this changelog section as the release notes source of truth.
