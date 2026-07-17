@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: >-
+  If you use this repository or its architectural materials in your research,
+  please cite the project using the metadata below.
+title: Secure AI Privacy Layer
+version: 0.1.0
+doi: null
+date-released: 2026-07-17
+authors:
+  - family-names: Project
+    given-names: Secure AI Privacy Layer Maintainers
+preferred-citation:
+  type: generic
+  title: Secure AI Privacy Layer
+  version: 0.1.0
+  date-released: 2026-07-17
+  authors:
+    - family-names: Project
+      given-names: Secure AI Privacy Layer Maintainers
