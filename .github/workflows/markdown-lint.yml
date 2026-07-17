@@ -17,4 +17,5 @@ jobs:
             *.md
             docs/**/*.md
             .github/**/*.md
-            article/**/*.html
+            prototype/**/*.md
+            examples/**/*.md
