@@ -28,4 +28,4 @@ Once a prototype or implementation exists in this repository, the following will
 
 ## Reporting a Concern About the Architecture Today
 
-If you've identified a scenario where the *architecture as described* would fail to protect sensitive data in a way not already acknowledged in [`docs/system-boundaries.md`](docs/system-boundaries.md) or [`docs/limitations.md`](docs/limitations.md), please open an Issue using the `architectural-concern` label. This is one of the most valuable contributions this project can currently receive.
+If you've identified a scenario where the *architecture as described* would fail to protect sensitive data in a way not already acknowledged in [`docs/system-boundaries.md`](docs/system-boundaries.md) or [`docs/limitations.md`](docs/limitations.md), please open an Issue using the `architecture` label. This is one of the most valuable contributions this project can currently receive.

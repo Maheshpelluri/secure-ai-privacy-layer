@@ -3,6 +3,7 @@
 Use the following label set to keep issues and pull requests organized:
 
 - `architecture` - changes or discussion related to the conceptual design.
+- `bug` - a documentation, metadata, or repository-quality defect.
 - `discussion` - general conversation items that do not yet require action.
 - `research` - questions, hypotheses, prior art, or evaluation topics.
 - `documentation` - repository content, wording, links, and presentation.

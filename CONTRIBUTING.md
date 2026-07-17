@@ -24,7 +24,7 @@ Use GitHub Issues for:
 - Proposed additions to open research areas.
 - Prior art or related work worth referencing.
 
-Please use the issue template in [`.github/ISSUE_TEMPLATE.md`](.github/ISSUE_TEMPLATE.md) and be explicit about whether you're reporting a documentation issue, an architectural concern, or a research question.
+Please use the issue templates in [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) and be explicit about whether you're reporting a documentation issue, an architectural concern, a bug, or a research question.
 
 ### 2. Discussion
 
